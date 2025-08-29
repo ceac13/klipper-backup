@@ -1,0 +1,10 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+resonances_x_20250601_232923.csv
+resonances_y_20250601_232051.csv
+*.zip
